@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-img-top {
+    height: 400px;
+}
+#imgdragon {
+    height: 370px;
+}
+.numberplace {
+    margin-left: 48%;
+}
+.globalprice {
+    margin-left: 40%;
+    text-align: center;
+    border-radius: 10px; 
+}
+#totalprice {
+    text-align: center;
+    margin-top: 50px;
+    font-size: xx-large;
+    margin-right: 80px;
+}
+
+.fa-trash-alt {
+    margin-left: 70%;
+    margin-top: 10px;
+}
+.unitprice {
+    font-size: x-large;
+    margin-left: 40%;
+}
