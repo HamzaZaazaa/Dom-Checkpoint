@@ -26,7 +26,7 @@ for ( let i = 0; i<trashicons.length; i++) {
         trashicons[i].parentElement.parentElement.parentElement.remove()
     })
 }
-// heart icon function (Else {hearticons[i].style.color="black";} mahabtech tekhdem)
+
 for (let i=0; i<hearticons.length; i++) {
     hearticons[i].addEventListener("click", function(){ 
             if(hearticons[i].style.color !="red") {
